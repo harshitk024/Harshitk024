@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Harshit Kumar.
 - 👀 I’m interested in Data Science/A.I/Machine Learning.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently pursuing B.tech (C.S.E) from B.S.A College Mathura.
+
 
 <!---
 Harshitk024/Harshitk024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
